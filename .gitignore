@@ -16,6 +16,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*Debug
+*.opensdf
+*.sdf
 
 # =========================
 # Operating System Files
