@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decorator-pattern", "decora
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "factory-method-pattern", "factory-method-pattern\factory-method-pattern.vcxproj", "{B1F53143-90DB-4778-8767-01BB1E77FA6A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "singleton-pattern", "singleton-pattern\singleton-pattern.vcxproj", "{8ACE58D0-BB61-43FE-85D4-3E6C3E195909}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{B1F53143-90DB-4778-8767-01BB1E77FA6A}.Debug|Win32.Build.0 = Debug|Win32
 		{B1F53143-90DB-4778-8767-01BB1E77FA6A}.Release|Win32.ActiveCfg = Release|Win32
 		{B1F53143-90DB-4778-8767-01BB1E77FA6A}.Release|Win32.Build.0 = Release|Win32
+		{8ACE58D0-BB61-43FE-85D4-3E6C3E195909}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8ACE58D0-BB61-43FE-85D4-3E6C3E195909}.Debug|Win32.Build.0 = Debug|Win32
+		{8ACE58D0-BB61-43FE-85D4-3E6C3E195909}.Release|Win32.ActiveCfg = Release|Win32
+		{8ACE58D0-BB61-43FE-85D4-3E6C3E195909}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
