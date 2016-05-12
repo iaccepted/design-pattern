@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "singleton-pattern", "single
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstract-factory-pattern", "abstract-factory-pattern\abstract-factory-pattern.vcxproj", "{D08E6BBA-EE6D-4F36-9607-D5A4CC3B4A26}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adapter-pattern", "adapter-pattern\adapter-pattern.vcxproj", "{A04379D1-9C9F-41BA-8E56-BAB98A9369F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fade-pattern", "fade-pattern\fade-pattern.vcxproj", "{D12A3F70-84AC-422A-BC87-7FD99D3424DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -45,6 +49,14 @@ Global
 		{D08E6BBA-EE6D-4F36-9607-D5A4CC3B4A26}.Debug|Win32.Build.0 = Debug|Win32
 		{D08E6BBA-EE6D-4F36-9607-D5A4CC3B4A26}.Release|Win32.ActiveCfg = Release|Win32
 		{D08E6BBA-EE6D-4F36-9607-D5A4CC3B4A26}.Release|Win32.Build.0 = Release|Win32
+		{A04379D1-9C9F-41BA-8E56-BAB98A9369F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A04379D1-9C9F-41BA-8E56-BAB98A9369F6}.Debug|Win32.Build.0 = Debug|Win32
+		{A04379D1-9C9F-41BA-8E56-BAB98A9369F6}.Release|Win32.ActiveCfg = Release|Win32
+		{A04379D1-9C9F-41BA-8E56-BAB98A9369F6}.Release|Win32.Build.0 = Release|Win32
+		{D12A3F70-84AC-422A-BC87-7FD99D3424DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D12A3F70-84AC-422A-BC87-7FD99D3424DA}.Debug|Win32.Build.0 = Debug|Win32
+		{D12A3F70-84AC-422A-BC87-7FD99D3424DA}.Release|Win32.ActiveCfg = Release|Win32
+		{D12A3F70-84AC-422A-BC87-7FD99D3424DA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
