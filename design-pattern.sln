@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adapter-pattern", "adapter-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fade-pattern", "fade-pattern\fade-pattern.vcxproj", "{D12A3F70-84AC-422A-BC87-7FD99D3424DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "command-pattern", "command-pattern\command-pattern.vcxproj", "{DD417A19-6B41-4F20-BEEF-102A914526E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -57,6 +59,10 @@ Global
 		{D12A3F70-84AC-422A-BC87-7FD99D3424DA}.Debug|Win32.Build.0 = Debug|Win32
 		{D12A3F70-84AC-422A-BC87-7FD99D3424DA}.Release|Win32.ActiveCfg = Release|Win32
 		{D12A3F70-84AC-422A-BC87-7FD99D3424DA}.Release|Win32.Build.0 = Release|Win32
+		{DD417A19-6B41-4F20-BEEF-102A914526E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD417A19-6B41-4F20-BEEF-102A914526E1}.Debug|Win32.Build.0 = Debug|Win32
+		{DD417A19-6B41-4F20-BEEF-102A914526E1}.Release|Win32.ActiveCfg = Release|Win32
+		{DD417A19-6B41-4F20-BEEF-102A914526E1}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
