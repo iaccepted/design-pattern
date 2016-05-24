@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fade-pattern", "fade-patter
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "command-pattern", "command-pattern\command-pattern.vcxproj", "{DD417A19-6B41-4F20-BEEF-102A914526E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "template-method-pattern", "template-method-pattern\template-method-pattern.vcxproj", "{4933A207-A940-495B-89BD-E105A51567E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -63,6 +65,10 @@ Global
 		{DD417A19-6B41-4F20-BEEF-102A914526E1}.Debug|Win32.Build.0 = Debug|Win32
 		{DD417A19-6B41-4F20-BEEF-102A914526E1}.Release|Win32.ActiveCfg = Release|Win32
 		{DD417A19-6B41-4F20-BEEF-102A914526E1}.Release|Win32.Build.0 = Release|Win32
+		{4933A207-A940-495B-89BD-E105A51567E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4933A207-A940-495B-89BD-E105A51567E8}.Debug|Win32.Build.0 = Debug|Win32
+		{4933A207-A940-495B-89BD-E105A51567E8}.Release|Win32.ActiveCfg = Release|Win32
+		{4933A207-A940-495B-89BD-E105A51567E8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
